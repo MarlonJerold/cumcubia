@@ -31,7 +31,13 @@ Lord Pato, o temido!
 4. **Receba a Numeração**: A ferramenta fornecerá a lista com a numeração romana correta.
 
 ## **Testes**
+Para garantir que eu, Lord Pato não tenha problemas em manuntenções, com subida de bugs, adicionei testes unitários para validar minhas alterações.
+![image](https://github.com/user-attachments/assets/668d385b-98e3-45cd-98b1-3224f349d634)
 
 ![image](https://github.com/user-attachments/assets/ea6c7310-3b26-46c4-8726-f352de37ba19)
+
+![image](https://github.com/user-attachments/assets/c4a1f70a-32ff-46df-9319-df6b30dfe013)
+
+![image](https://github.com/user-attachments/assets/a9e3e1f4-d0c2-4896-931e-37a699f62528)
 
 
